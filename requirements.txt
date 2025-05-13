@@ -1,0 +1,8 @@
+flask
+flask-socketio
+requests
+beautifulsoup4
+tldextract
+tabulate
+playwright
+python-dotenv
